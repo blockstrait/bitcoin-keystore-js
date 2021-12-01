@@ -1,0 +1,10 @@
+*.log
+.DS_Store
+node_modules
+dist
+coverage
+docs
+*.tsbuildinfo
+package-lock.json
+.yalc
+yalc.lock
