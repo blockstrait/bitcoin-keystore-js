@@ -5,6 +5,5 @@ dist
 coverage
 docs
 *.tsbuildinfo
-package-lock.json
 .yalc
 yalc.lock
