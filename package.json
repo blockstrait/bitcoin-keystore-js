@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "Apache-2.0",
   "name": "@blockstrait/bitcoin-keystore",
   "author": "Pol Moreno Yeste",
@@ -12,6 +12,10 @@
     "bsv",
     "bitcoin sv"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockstrait/bitcoin-keystore-js.git"
+  },
   "scripts": {
     "build": "npm run build:ts",
     "build:ts": "tsc -b .",
